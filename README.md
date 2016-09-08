@@ -2,6 +2,7 @@ Sony Xperia Blue-Common
 =======================
 
 
+
 Common board shared between following devices :
 
     Xperia T..................Mint
